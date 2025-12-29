@@ -4,7 +4,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { TrendingUp, Newspaper, GraduationCap, Shield, Zap, BarChart3 } from "lucide-react"
 
 export default function HomePage() {
-  const WAITLIST_FORM_URL = "https://form.typeform.com/to/l8AHoqtb"
+  const WAITLIST_FORM_URL = "https://tally.so/r/RGdON9"
 
   return (
     <div className="min-h-screen">
